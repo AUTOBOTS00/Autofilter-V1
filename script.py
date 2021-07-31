@@ -17,7 +17,6 @@ This bot is Exclusively made for</b> <a href='https://t.me/mallubros'>MalluBros<
     
 👨‍💻<b>Creater :</b> <a href='https://t.me/Elonmusk_010'>Elonmusk</a> 
 
-
 ⌨<b>Language :</b> <code>Python3</code>
 
 📚<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
