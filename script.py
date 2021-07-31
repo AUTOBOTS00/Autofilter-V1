@@ -5,17 +5,18 @@ class script(object):
 
 You can call this as an Auto Filter Bot if you like :D
 
-This bot is Exclusively made for [MalluBros](t.me/mallubros)
+This bot is Exclusively made for</b> <a href='https://t.me/mallubros'>MalluBros</a> 
 
 @MalluBros</b>"""
 
 
-    HELP_MSG = """<b>Sorry you can'tadd me in other groups 🤕\n\n@MalluBros</b>"""
+    HELP_MSG = """<b>Sorry you can't add me in other groups 🤕\n\n@MalluBros</b>"""
 
 
     ABOUT_MSG = """😇<b>My Name : Auto Filter Bot</b>
     
-👨‍💻<b>Creater :</b> @Elonmusk_010
+👨‍💻<b>Creater :</b> <a href='https://t.me/Elonmusk_010'>Elonmusk</a> 
+
 
 ⌨<b>Language :</b> <code>Python3</code>
 
